@@ -1,4 +1,4 @@
-//Nesse código irei compara diferentes tipos de variáveis em JavaScript//
+//Nesse código irei comparar diferentes tipos de variáveis em JavaScript//
 
 //Variáveis://
 let numeroUm = 1;
@@ -8,6 +8,7 @@ let stringTrinta = "30";
 let numeroDez = 10;
 let stringDez = "10";
 
+//Funções de comparação//
 if (numeroUm == stringUm) {
   console.log(
     "As variáveis numeroUm e stringUm nos mostra os mesmos valores mas tipos diferente"
